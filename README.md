@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mpt29
-- 👀 I’m interested in development and trade economics
-- 🌱 I’m currently doing my PhD at Paris Dauphine University.
+- 👀 Interested in development and trade economics
+- 🌱 Currently doing my PhD at Paris Dauphine University.
 
 
 <!---
